@@ -7,3 +7,7 @@ Step 1: download the ZIP file
 Step 2: install the requirements text using the cmd provided above
 ![image](https://github.com/Qwncyy/RZA-prototype/assets/145335419/3fc364ab-b6b6-4c6b-b47d-8c2cc892dfd3)
 
+Step 3: press run and try the application
+![image](https://github.com/Qwncyy/RZA-prototype/assets/145335419/b621ba8a-9fc2-46ce-93f7-e4b579f544e4)
+
+This is merely a prototype and has less functionality than the full solution would
