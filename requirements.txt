@@ -1,2 +1,2 @@
 Pillow >= 10.1
-customtkinter == 0.3
+customtkinter >= 0.3
